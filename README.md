@@ -1,7 +1,7 @@
 ![TreeThinking](DarwinIthink.jpg)
 # Malvenidos sean todxs a teleclases de Sistemática 2020 coronavíricas
 
-Copien y tengan a la mano esta página [de GitHub](https://github.com/HernanVM/Sistematica2020.github.io/) donde mantendremos comunicados, archivos y tareas para la clase
+Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Sistematica2020/) donde mantendremos comunicados, archivos y tareas para la clase
 
 
 ## Para empezar, nos veremos en Zoom.us y necesitan instalar los siguentes programas
