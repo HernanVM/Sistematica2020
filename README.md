@@ -1,5 +1,5 @@
 ![TreeThinking](DarwinIthink.jpg)
-# Malvenidos sean todxs a teleclases de Sistemática 2020 coronavíricas
+# Nimodovenidos sean todxs a teleclases de Sistemática 2020 coronavíricas
 
 Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Sistematica2020/) donde mantendremos comunicados, archivos y tareas para la clase
 
