@@ -1,0 +1,5 @@
+```
+# En R los comentarios comienzan con gato/hastag
+# Los paquetes o bibliotecas (libraries) se cargan de un depósito de CRAN con el comando install.packages("NombreDelPaquete")
+install.packages("RColorBrewer") # por ejemplo, instala el paquete de creación de colores 
+library(RColorBrewer) # y library() sin comillas carga al paquete
