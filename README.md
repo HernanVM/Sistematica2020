@@ -19,6 +19,15 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 3. [Sublime3](https://www.sublimetext.com/3)
 
 
+
+## Notas, código de R, presentaciones, y ejercicios/tareas para la clase
+- [Ejercicios](https://github.com/HernanVM/Sistematica2020/tree/R/Ejercicios)
+- [Código R](https://github.com/HernanVM/Sistematica2020/tree/R/Rcode)
+
+
+
+
+
 ### Mantendremos notificaciones de cuándo regresamos a clases presenciales
 
 Recuerden revisar las noticias en la sección de avisos y noticias de la [Facultad de Ciencias](http://www.fciencias.unam.mx/comunicacion/noticias), y en Twitter con el **#Sistematica2020**
