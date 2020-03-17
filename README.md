@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+![TreeThinking](DarwinIthink.jpg)
+# Malvenidos sean todxs a teleclases de Sistemática 2020 coronavíricas
 
-You can use the [editor on GitHub](https://github.com/HernanVM/Sistematica2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Copien y tengan a la mano esta página [de GitHub](https://github.com/HernanVM/Sistematica2020/) donde mantendremos comunicados, archivos y tareas para la clase
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Para empezar, nos veremos en Zoom.us y necesitan instalar los siguentes programas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**R** (programa estadístico), **Rstudio** (manejador de R para hacerlo sencillo) y **Sublime3** (editor de texto pro)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Salón virtual
+[Zoom Sistematica2020](https://zoom.us/j/9899412978) 
 
-- Bulleted
-- List
+### Programas a instalar (seleccionen la versión que corresponda a su sistema Windows, Mac, Linux)
 
-1. Numbered
-2. List
+1. [R](https://cran.r-project.org/)
+2. [Rstudio](https://rstudio.com/products/rstudio/download/#download) 
+3. [Sublime3](https://www.sublimetext.com/3)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Mantendremos notificaciones de cuándo regresamos a clases presenciales
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Recuerden revisar las noticias en la sección de avisos y noticias de la [Facultad de Ciencias](http://www.fciencias.unam.mx/comunicacion/noticias), y en Twitter con el **#Sistematica2020**
 
-### Jekyll Themes
+### Contacto
+```hernan (at) ib.unam.mx reemplazar (at) con @```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HernanVM/Sistematica2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
