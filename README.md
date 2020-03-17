@@ -3,7 +3,6 @@
 
 Copien y tengan a la mano esta página [de GitHub](https://github.com/HernanVM/Sistematica2020/) donde mantendremos comunicados, archivos y tareas para la clase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Para empezar, nos veremos en Zoom.us y necesitan instalar los siguentes programas
 
