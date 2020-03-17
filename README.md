@@ -20,7 +20,7 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 
 
 ## Notas, código de R, presentaciones, y ejercicios/tareas para la clase
-- [Ejercicios](https://hernanvm.github.io/Sistematica2020/Ejercicios)
+- [Ejercicios](https://hernanvm.github.io/Sistematica2020/tree/R/Ejercicios)
 - [Código R](https://hernanvm.github.io/Sistematica2020/Rcode)
 
 
