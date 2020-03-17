@@ -1,5 +1,6 @@
+El código de **R** se visualiza de la siguiente forma. La práctica hace a _le maestre_
 ```
-# En R los comentarios comienzan con gato/hastag
+# En R los comentarios comienzan con gato/hashtag 
 # la ruta hacia un directorio donde trabajaremos se especifica con setwd("Ruta/hasta/el/directorio/") en comillas ""
 setwd(~/Desktop/Sist/) # en Mac y Linux. La ~ representa tu hogar, o $HOME que es tu Nombre de usuario en tu compu
 setwd("C:/Usuarios/TuNombre/Escritorio/Sist")  # en Windows
