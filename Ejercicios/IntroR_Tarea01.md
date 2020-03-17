@@ -15,7 +15,7 @@ alt_pinace <- c(40,40,35,30,40,40,25,35,25,40,40,25,40,40,20,25,30,15,45,40,27,2
 
 # calcula la media, la desviación estándar, y genera dos histogramas para cada grupo de plantas que lleven colores y un título
 # Para el viernes 20 de marzo necesitan tener listos dos pdf, uno para cada grupo de árboles, con el siguiente nombre
-# Rplot_Sist2020_HistLeguminosas_TuNombre.pdf
+# Rplot_Sist2020_HistLeguminosas_TuNombre.pdf y Rplot_Sist2020_HistPinaceas_TuNombre.pdf 
 ```
 
 El viernes que nos conectemos, mándenme por Zoom su tarea.
