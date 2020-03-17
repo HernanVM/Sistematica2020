@@ -5,7 +5,7 @@ Realiza los cálculos indicados para los siguientes datos de altura de diferente
 - Revista Mexicana de Biodiversidad 81: 27- 38, 2010 #Pinaceas
 ```
 getwd()
-setwd("~/Desktop/Sist/R/")
+#setwd("~/Desktop/Sist/R/") #ignoren esta línea, así es como cambiamos de directorio
 
 # creación de un vector con datos numéricos de alturas máximas en México en metros (m) para leguminosas
 alt_legumi <- c(8,6,9,10,10,8,12,10,20,15,20,7,15,6,7,10,10,7,12,20,10,6,20,25,12,10,10,12,16,10,10,18,6,30,20,10,10)
