@@ -30,7 +30,7 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 
 ### Mantendremos notificaciones de cuándo regresamos a clases presenciales
 
-Recuerden revisar las noticias en la sección de avisos y noticias de la [Facultad de Ciencias](http://www.fciencias.unam.mx/comunicacion/noticias), y en Twitter con el **#Sistematica2020**
+Recuerden revisar el [nuevo sitio UNAM sobre el COVID19](https://covid19comisionunam.unamglobal.com), las noticias en la sección de avisos de la [Facultad de Ciencias](http://www.fciencias.unam.mx/comunicacion/noticias), y en Twitter con el **#Sistematica2020**
 
 ### Contacto
 ```hernan (at) ib.unam.mx reemplazar (at) con @```
