@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/png" href="favicon-16x16.png">
 ![TreeThinking](DarwinIthink.jpg)
 # Nimodovenidos sean todxs a teleclases de Sistemática 2020 coronavíricas
 
