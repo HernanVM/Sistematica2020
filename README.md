@@ -10,7 +10,8 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 
 
 ### Salón virtual
-[Zoom Sistematica2020](https://zoom.us/j/9899412978) 
+[Zoom Sistematica2020](https://zoom.us/j/9899412978)
+[Zoom Sistematica2020 nuevo](https://us04web.zoom.us/j/944182947)
 
 ### Programas a instalar (seleccionen la versión que corresponda a su sistema Windows, Mac, Linux)
 
