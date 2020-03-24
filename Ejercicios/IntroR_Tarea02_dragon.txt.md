@@ -1,4 +1,4 @@
-Vamos a hacer esta "tarea" todos juntos de la mano al iniciar la clase del martes 24 de marzo y me la mandan acabando la sesión
+Por favor hagan esta "tarea" A MANO para entregar en la clase del martes 27 de marzo 
 ```
 Nombre	1	2	3	4	5	6	7	8	9	10
 Wyvern	1	0	0	0	0	0	0	0	0	0
