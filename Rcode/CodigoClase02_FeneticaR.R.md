@@ -103,26 +103,24 @@ writeDist(distJCcephs, "distJCcephs.txt")
 #estimar árbol UPGMA
 JCcephsUPGMA <- upgma(distJCcephs)
 #ver árbol UPGMA, agregar eje, y salvar el arbolito
-plot(JCcephsUPGMA, main="UPGMA")
+plot(JCcephsUPGMA, main="JC UPGMA")
 axisPhylo(side = 1, root.time = NULL, backward = TRUE)
 write.tree(JCcephsUPGMA, file="JCcephsUPGMA.tre")
 
 GTRcephsUPGMA <- upgma(distGTRcephs)
 #ver árbol UPGMA
-plot(GTRcephsUPGMA, main="UPGMA")
+plot(GTRcephsUPGMA, main="GTR UPGMA")
 axisPhylo(side = 1, root.time = NULL, backward = TRUE)
 write.tree(GTRcephsUPGMA, file="GTRcephsUPGMA.tre")
 
 TNcephsUPGMA <- upgma(distTNcephs)
 #ver árbol UPGMA
-plot(TNcephsUPGMA, main="UPGMA")
+plot(TNcephsUPGMA, main="TN UPGMA")
 axisPhylo(side = 1, root.time = NULL, backward = TRUE)
 write.tree(TNcephsUPGMA, file="TNcephsUPGMA.tre")
 
 HKYcephsUPGMA <- upgma(distHKYcephs)
 #ver árbol UPGMA
-plot(HKYcephsUPGMA, main="UPGMA")
+plot(HKYcephsUPGMA, main="HKY UPGMA")
 axisPhylo(side = 1, root.time = NULL, backward = TRUE)
 write.tree(HKYcephsUPGMA, file="HKYcephsUPGMA.tre")
-
-
