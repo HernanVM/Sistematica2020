@@ -19,6 +19,10 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 2. [Rstudio](https://rstudio.com/products/rstudio/download/#download) 
 3. [Sublime3](https://www.sublimetext.com/3)
 
+### Herramientas bioinformáticas en línea
+
+1. [GENBANK](https://www.ncbi.nlm.nih.gov/genbank/)
+2. [MAFFT alineamientos](https://www.ebi.ac.uk/Tools/msa/mafft/) 
 
 
 ## Notas, código de R, presentaciones, y ejercicios/tareas para la clase
