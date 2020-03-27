@@ -10,7 +10,7 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 
 
 ### Salón virtual
-[Zoom Sistematica2020 nuevo](https://us04web.zoom.us/j/944182947)
+[CUAED Zoom Sistematica2020 nuevo](https://cuaed-unam.zoom.us/j/623485957)
 
 ### Programas a instalar (seleccionen la versión que corresponda a su sistema Windows, Mac, Linux)
 
