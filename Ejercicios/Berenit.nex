@@ -1,0 +1,25 @@
+#NEXUS
+
+begin taxa;
+	dimensions ntax=6;
+	taxlabels
+	GE
+	A
+	B
+	C
+	D
+	E
+	;
+	end;
+
+begin characters;
+	dimensions nchar=11;
+	matrix
+GE 00000000000
+A 10001111110
+B 10001011111
+C 00000011111
+D 01110000111
+E 01110000001
+;
+end;
