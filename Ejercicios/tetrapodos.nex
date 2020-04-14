@@ -1,0 +1,27 @@
+#Nexus
+
+begin taxa;
+	Dimensions ntax=7;
+	taxlabels
+Dipnoi
+Lissamphibia
+Mammalia
+Chelonia
+Lepidosauria
+Aves
+Crocodylia;
+end;
+
+begin characters;
+	Dimensions nchar=12;
+	matrix
+
+Dipnoi 000000000000
+Lissamphibia 100000010000
+Mammalia 110000001000
+Chelonia 111000000100
+Lepidosauria 111100000010
+Aves 111111000001
+Crocodylia 111111100000
+;
+end;
