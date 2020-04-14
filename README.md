@@ -17,6 +17,7 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 1. [R](https://cran.r-project.org/)
 2. [Rstudio](https://rstudio.com/products/rstudio/download/#download) 
 3. [Sublime3](https://www.sublimetext.com/3)
+4. [PAUP](http://phylosolutions.com/paup-test/)
 
 ### Herramientas bioinformáticas en línea
 
