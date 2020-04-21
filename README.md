@@ -22,7 +22,8 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 ### Herramientas bioinformáticas en línea
 
 1. [GENBANK](https://www.ncbi.nlm.nih.gov/genbank/)
-2. [MAFFT alineamientos](https://www.ebi.ac.uk/Tools/msa/mafft/) 
+2. [MAFFT alineamientos](https://www.ebi.ac.uk/Tools/msa/mafft/)
+3. [ML en IQTree](http://iqtree.cibiv.univie.ac.at)
 
 
 ## Notas, código de R, presentaciones, y ejercicios/tareas para la clase
