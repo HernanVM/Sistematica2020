@@ -161,3 +161,4 @@ plot(ladderize(cephs18smlr),cex=0.95,  edge.width = 1.7, direction="r",show.node
 nodelabels(pch=21,bg=b,cex=0.90); # agregar nodos
 legend("bottomright", legend=expression(99 <= BP, 70 <= BP * " < 99", BP < 70), pch=21, pt.bg=co, pt.cex=0.80,bty="n");
 add.scale.bar(ask=TRUE) ##el cursor aparecerá donde uno quiera poner la escala
+´´´
