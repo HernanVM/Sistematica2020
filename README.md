@@ -18,6 +18,8 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 2. [Rstudio](https://rstudio.com/products/rstudio/download/#download) 
 3. [Sublime3](https://www.sublimetext.com/3)
 4. [PAUP](http://phylosolutions.com/paup-test/)
+5. [FigTree](https://github.com/rambaut/figtree/releases)
+6. [MrBayes](http://nbisweden.github.io/MrBayes/download.html)
 
 ### Herramientas bioinformáticas en línea
 
