@@ -1,5 +1,5 @@
 ## 1. En el servidor de IQtree suban esta matriz de DNA mitocondrial y estimen el modelo evolutivo, el árbol y los bootstraps. 
-## En FigTree coloquen los valores de bootstrap, enraicen con Lemur, pinten las ramas de colores bonitos y con tamaño de letra visible.
+## 2. En FigTree coloquen los valores de bootstrap, enraicen con Lemur, pinten las ramas de colores bonitos y con tamaño de letra visible.
 ```
 #NEXUS
 
