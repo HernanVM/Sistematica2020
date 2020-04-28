@@ -20,7 +20,8 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 4. [PAUP](http://phylosolutions.com/paup-test/)
 5. [FigTree](https://github.com/rambaut/figtree/releases)
 6. [Beagle para acelerar cálculos Bayesianos](https://github.com/beagle-dev/beagle-lib)
-7. [MrBayes](http://nbisweden.github.io/MrBayes/download.html) 
+7. [MrBayes](http://nbisweden.github.io/MrBayes/download.html)
+8. [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1)
 
 ### Herramientas bioinformáticas en línea
 
