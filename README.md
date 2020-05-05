@@ -35,6 +35,7 @@ Copien y tengan a la mano esta página [de GitHub](https://hernanvm.github.io/Si
 - [Código R](https://github.com/HernanVM/Sistematica2020/blob/R/Rcode/)
 - [Presentaciones](https://github.com/HernanVM/Sistematica2020/tree/R/Presentaciones)
 - [Lecturas](https://github.com/HernanVM/Sistematica2020/tree/R/Lecturas)
+- [Video](https://github.com/HernanVM/Sistematica2020/tree/R/Video)
 
 
 ### Mantendremos notificaciones de cuándo regresamos a clases presenciales
