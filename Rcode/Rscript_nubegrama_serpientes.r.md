@@ -1,6 +1,6 @@
 Utilicen este script de R para poder crear un "nubegrama" o "cloudogram" con los árboles de réplicas de bootstrap de SVDquartets de PAUP
 Cámbienle el color a las ramas del nubegrama. **Esta es una actividad extra opcional por si quieren un punto extra en el último parcial.**
-Para los que tienen MacOs Catalina y no pueden utilizar la versión GUI de PAUP, usen la versión de comandos de Linux (funciona como MrBayes en su Terminal) y para correr el análisis estos comandos:
+Para los que tienen MacOs Catalina y no pueden utilizar la versión GUI de PAUP (http://phylosolutions.com/paup-test/paup4a166_osx.gz), usen la versión de comandos de Linux (funciona como MrBayes en su Terminal) y para correr el análisis estos comandos:
 ```
 SVDQuartets taxpartition=snakespecies bootstrap=standard treeFile='/Users/Odontodactylus/Desktop/Sist2020/R/snakes_svdq_boot.tre';
 ```
